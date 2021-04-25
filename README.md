@@ -59,3 +59,16 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 ## Copyright and License
 
 Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/gh-pages/LICENSE) license.
+
+
+### 1) Modifique el License.
+### 2) borre el package.lock
+### 3) Modifique el package.json
+### 4) comense a realizar cambios en el readme
+### 5) elimine gulp.js, travis.yml y todas sus dependencias
+### 6) Borre los archvos que no se estan usando css/js
+### 7) ordene todos los archivos correctamente para comenzar a maquetar
+### 8) Modifique el index.html
+## 8.1) Modifique todos los css/js para que apunten a la carpeta assets.
+## 8.2) cambie el logo ese en texto todo feo por un svg y al mismo le adapte el color con css.
+## 8.3) 

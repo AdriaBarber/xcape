@@ -1,0 +1,21 @@
+
+body {
+  padding-top: 56px;
+}
+.svg {
+  width: 80px;
+}
+
+.svgNegro {
+  width: 200px;  
+}
+
+.colorearBlanco {
+  fill: white !important;
+  color: white !important;
+}
+
+.colorearNegro {
+  fill: black !important;
+  color: black !important;
+}
