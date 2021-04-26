@@ -15,7 +15,7 @@ body {
 
 .bgFondo2 {
   background-image: url(../img/Backgrounds/portada2.png);
-  height: 100%;
+  height: auto;
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -24,7 +24,7 @@ body {
 
 .bgFondo3 {
   background-image: url(../img/Backgrounds/portada3.png);
-  height: 100%;
+  height: auto;
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -33,7 +33,7 @@ body {
 
 .bgWhite {
   background-color: white;
-  height: 100%;
+  height: auto;
   width: 100%;
 }
 
