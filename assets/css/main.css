@@ -42,13 +42,18 @@ body {
 }
 
 .espacio{
- height: 50px;
+ 
+  /* height: 25px; */
+ 
 }
 
 .loguito{
-  height: 125px;
+  width: 125px;
  }
 
+hr{
+  border-top: 5px solid #fff !important;
+}
 
 /* Svg´s Logos */
 
@@ -57,22 +62,8 @@ body {
 
 }
 
-.svgfooter {
-  width: 45px;
-}
-
-.svgNegro {
-  width: 200px;
-}
-
-.colorearBlanco {
-  fill: white !important;
-  color: white !important;
-}
-
-.colorearNegro {
-  fill: black !important;
-  color: black !important;
+.svg2 {
+  width: 160px;
 }
 
 /*Cambios Varios*/
