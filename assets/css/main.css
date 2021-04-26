@@ -10,7 +10,7 @@ body {
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
- 
+
 }
 
 .bgFondo2 {
@@ -54,15 +54,15 @@ body {
 
 .svg {
   width: 80px;
-  
+
 }
 
 .svgfooter {
-  width: 45px; 
+  width: 45px;
 }
 
 .svgNegro {
-  width: 200px;  
+  width: 200px;
 }
 
 .colorearBlanco {
@@ -73,4 +73,11 @@ body {
 .colorearNegro {
   fill: black !important;
   color: black !important;
+}
+
+/*Cambios Varios*/
+
+.titulo {
+  font-weight: lighter;
+  color: #fff;
 }
