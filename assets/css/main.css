@@ -15,7 +15,9 @@ body {
 
 .bgFondo2 {
   position: absolute;
-  float: right;
+  overflow: hidden;
+  height: 500px;
+  right: -300px;
 }
 
 .bgFondo3 {
