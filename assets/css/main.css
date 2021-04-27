@@ -39,7 +39,8 @@ body {
 
 .text-colorear{
   background-color: #ffa46b;
-  align-items: center;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .espacio{
