@@ -44,15 +44,13 @@ body {
   margin-right: 10px;
 }
 
-.div-contactanos {
+.div-Sobrenosotros {
   margin-left: 10px;
   margin-right: 10px;
 }
 
 .espacio{
-
   /* height: 25px; */
-
 }
 
 .loguito{
@@ -91,3 +89,7 @@ i {
 .btn {
   margin-top: 20px;
 }
+
+/*Media Query*/
+
+@media (min-width:)
