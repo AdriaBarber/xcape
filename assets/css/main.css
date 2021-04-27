@@ -16,10 +16,8 @@ body {
 .bgFondo2 {
   background-image: url(../img/Backgrounds/M4.png);
   height: auto;
-  width: 100%;
-  background-position: right;
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: 100%;
 }
 
 .bgFondo3 {
