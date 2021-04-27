@@ -17,6 +17,7 @@ body {
   position: absolute;
   overflow: hidden;
   height: 400px;
+  width: 100%;
   right: 100px;
 }
 
