@@ -39,6 +39,7 @@ body {
 
 .text-colorear{
   background-color: #ffa46b;
+  margin-top: 33%;
 }
 
 .espacio{
@@ -70,7 +71,7 @@ hr{
 
 i {
   font-size: 30px;
-  color: cyan;
+  color: #0E6569;
 }
 
 /*Cambios Varios*/
