@@ -4,7 +4,7 @@ body {
 }
 /* Fondos */
 .bgFondo1 {
- background-image: url(../img/Backgrounds/M4.png);
+ background-image: url(../img/Backgrounds/portada1.png);
  height: 560px;
  width: 100%;
  background-position: center;
@@ -14,10 +14,10 @@ body {
 }
 
 .bgFondo2 {
-  background-image: url(../img/Backgrounds/M5.png);
+  background-image: url(../img/Backgrounds/M4.png);
   height: auto;
   width: 100%;
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
   background-size: 100%;
 }
