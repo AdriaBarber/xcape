@@ -38,7 +38,7 @@ body {
 }
 
 .text-colorear{
-  background-color: #FFA46B;
+  background-color: #ffa46b;
 }
 
 .espacio{
@@ -64,6 +64,13 @@ hr{
 
 .svg2 {
   width: 160px;
+}
+
+/*Iconos*/
+
+i {
+  font-size: 30px;
+  color: cyan;
 }
 
 /*Cambios Varios*/
