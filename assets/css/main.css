@@ -39,8 +39,16 @@ body {
 
 .text-colorear{
   background-color: #ffa46b;
-  margin-top: auto;
-  margin-bottom: auto;
+}
+
+.div-servicios {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.div-contactanos {
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .espacio{
