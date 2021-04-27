@@ -14,10 +14,8 @@ body {
 }
 
 .bgFondo2 {
-  background-image: url(../img/Backgrounds/M4.png);
-  height: auto;
-  background-position: center;
-  background-repeat: no-repeat;
+  position: absolute;
+  float: right;
 }
 
 .bgFondo3 {
