@@ -19,7 +19,7 @@ body {
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
 }
 
 .bgFondo3 {
@@ -28,7 +28,7 @@ body {
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
 }
 
 .bgWhite {
@@ -42,9 +42,9 @@ body {
 }
 
 .espacio{
- 
+
   /* height: 25px; */
- 
+
 }
 
 .loguito{
