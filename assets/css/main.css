@@ -72,3 +72,11 @@ hr{
   font-weight: lighter;
   color: #fff;
 }
+
+.contact {
+  text-align: left;
+}
+
+.btn {
+  margin-top: 20px;
+}
