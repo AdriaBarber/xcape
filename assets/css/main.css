@@ -40,16 +40,6 @@ body {
   background-color: #ffa46b;
 }
 
-.div-servicios {
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
-.div-sobrenosotros {
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
 .espacio{
   /* height: 25px; */
 }
@@ -93,4 +83,8 @@ i {
 
 .btn {
   margin-top: 20px;
+}
+
+.servicios {
+  margin-top: 25px;
 }
