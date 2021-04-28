@@ -87,10 +87,10 @@ i {
   color: #fff;
 }
 
+.header {
+  margin-left: 0;
+}
+
 .btn {
   margin-top: 20px;
 }
-
-/*Media Query*/
-
-@media (min-width:)
