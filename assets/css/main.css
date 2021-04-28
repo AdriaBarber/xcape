@@ -14,7 +14,7 @@ body {
 }
 .Fondo2 {
   position: absolute;
-  right: 0;
+  right: 50px;
   height: 400px;
 }
 
@@ -42,6 +42,10 @@ body {
 .text-colorear{
   background-color: #ffa46b;
   border-radius: 5px;
+}
+
+.div-sobrenosotros {
+  margin-left: 10px;
 }
 
 .espacio{
