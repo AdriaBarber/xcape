@@ -12,13 +12,13 @@ body {
  background-size: cover;
 
 }
-
-.bgFondo2 {
+.Fondo2 {
   position: absolute;
-  overflow: hidden;
-  height: 400px;
+  transform: translateX(-50%) translateY(-50%);
+}
+.Fondo2 img {
   width: 100%;
-  right: 300px;
+  height: 100%;
 }
 
 .bgFondo3 {
