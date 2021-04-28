@@ -19,7 +19,8 @@ body {
 
 .Fondo2 img {
   width: 40%;
-  right: 0px;
+  text-align: right;
+  margin-right: 50px;
   height: auto;
   overflow: hidden;
 }
