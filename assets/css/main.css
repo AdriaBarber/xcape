@@ -14,12 +14,12 @@ body {
 }
 .Fondo2 {
   position: absolute;
-  height: 300px;
+  height: 200px;
 }
 
 .Fondo2 img {
   width: 60%;
-  margin-left: 60%;
+  margin-left: 30%;
   height: auto;
   overflow: hidden;
 }
