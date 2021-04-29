@@ -14,14 +14,14 @@ body {
 }
 .Fondo2 {
   position: absolute;
-  height: 200px;
+  height: 400px;
   overflow: hidden;
 }
 
 .Fondo2 img {
   width: 60%;
   height: auto;
-  margin-left: 35%;
+  margin-left: 45%;
 }
 
 .bgFondo3 {
