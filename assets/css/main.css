@@ -71,7 +71,7 @@ hr.blanco{
 /*Cambios Varios*/
 
 .titulo {
-  font-weight: bolder;
+  font-weight: lighter;
   color: #fff;
 }
 
@@ -83,7 +83,7 @@ hr.blanco{
   top: 0px;
   clip-path: polygon(0 0, 68% 0, 100% 100%, 0 100%);
   clear: left;
-  
+
 }
 
 h4.card-title{
